@@ -3,7 +3,7 @@
 Étudiant en BTS SIO (Services Informatiques aux Organisations) option SISR (Solutions d'Infrastructure, Systèmes et Réseaux)</h2>
 
 
-<h2>Mes Certification</h2>
+<h2> 💪 Mes Certification</h2>
 <p>
 CCNA 1 (Cisco Certified Network Associate) est le premier cours de la série de certifications CCNA de Cisco. 
 Il couvre les concepts de base du réseautage, notamment les adresses IP, les protocoles réseau, le câblage réseau, 
@@ -29,7 +29,7 @@ de bases nécessaires pour se protéger contre les cybermenaces les plus courant
 <a href="https://www.credly.com/badges/c5fddce3-8edf-4069-8c8d-cfe7c7a59221">Cybersecurity Essentials</a></li>
 </p>
 
-<h2>Comment me contacter ?</h2>
+<h2>📫Comment me contacter ?</h2>
 <p>Vous pouvez me joindre via:</p>
 <ul>
     <li>Réseaux sociaux : <a href="https://www.linkedin.com/in/lucasburdier/" target="_blank">LinkedIn</a></li>
