@@ -28,7 +28,7 @@ de bases nécessaires pour se protéger contre les cybermenaces les plus courant
 <br><br>
 <a href="https://www.credly.com/badges/c5fddce3-8edf-4069-8c8d-cfe7c7a59221">Cybersecurity Essentials</a></li>
 </p>
-
+<br>
 <h2>📫Comment me contacter ?</h2>
 <p>Vous pouvez me joindre via:</p>
 <ul>
