@@ -13,9 +13,9 @@ les commutateurs et les routeurs, la configuration de base des périphériques r
 </p>
 <br>
 <p>
-CCNA 1 (Cisco Certified Network Associate) est le premier cours de la série de certifications CCNA de Cisco. 
-Il couvre les concepts de base du réseautage, notamment les adresses IP, les protocoles réseau, le câblage réseau, 
-les commutateurs et les routeurs, la configuration de base des périphériques réseau, le dépannage de base des réseaux et la sécurité réseau.
+Le DevNet Associate est une certification proposée par Cisco pour les professionnels travaillant dans le domaine des réseaux. Elle valide les compétences en développement logiciel 
+et en automatisation des réseaux. Les candidats doivent avoir une compréhension des concepts de base du développement, des technologies réseau et des API. Cette certification ouvre 
+des opportunités dans le développement d'applications réseau, l'automatisation des réseaux et la gestion des API.
 <br><br>
 <a href="https://www.credly.com/org/cisco/badge/devnet-associate">DevNet Associate</a></li>
 </p>
