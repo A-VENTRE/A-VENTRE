@@ -1,6 +1,8 @@
 <h2>Bonjour, je m'appelle Adrien VENTRE
 <br>
-Étudiant en BTS SIO (Services Informatiques aux Organisations) option SISR (Solutions d'Infrastructure, Systèmes et Réseaux)</h2>
+</h2>
+<h3>
+Étudiant en BTS SIO (Services Informatiques aux Organisations) option SISR (Solutions d'Infrastructure, Systèmes et Réseaux)</h3>
 
 
 <h2> 💪 Mes Certification</h2>
