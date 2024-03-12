@@ -35,5 +35,5 @@ de bases nécessaires pour se protéger contre les cybermenaces les plus courant
 <p>Vous pouvez me joindre via:</p>
 <ul>
     <li>Réseaux sociaux : <a href="https://www.linkedin.com/in/lucasburdier/" target="_blank">LinkedIn</a></li>
-    <li>Email : <a href="mailto:ventrea26@gmail.com">ventrea26@gmail.com</a></li>
+    <li>Email : <a href="mailto:2025-SIO.VENTRE-A@algoudlaffemas.fr">2025-SIO.VENTRE-A@algoudlaffemas.fr</a></li>
 </ul>
