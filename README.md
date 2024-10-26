@@ -48,9 +48,8 @@
     <p>Je suis ouvert &agrave; :</p>
     <ul>
         <li>Toute collaboration</li>
-        <li>Projets de tests de p&eacute;n&eacute;tration (d&eacute;veloppement ou recherche)</li>
-        <li>Stages de recherche</li>
-        <li>Participation en tant qu'examinateur ou membre de comit&eacute; de programme pour des revues ou conf&eacute;rences en cybers&eacute;curit&eacute;</li>
+        <li>Stages</li>
+        <li>Participation en dans un projet de cybers&eacute; ou réseaux</li>
     </ul>
 
 <h2>📨 Me Contacter</h2>
