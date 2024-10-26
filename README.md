@@ -27,7 +27,65 @@
         <li>Hacking &eacute;thique</li>
         <li>Formation en réseaux et en cybers&eacute;curit&eacute;</li>
     </ul>
+    <h2>🛠️ Comp&eacute;tences</h2>
+    <h3>Langages de programmation</h3>
+    <ul>
+        <li>Python</li>
+        <li>SQL</li>
+        <li>Shell Script</li>
+        <li>PowerShell</li>
+        <li>Java</li>
+        <li>HTML</li>
+    </ul>
 
+   <h3>Outils de s&eacute;curit&eacute;</h3>
+    <ul>
+        <li>Nmap</li>
+        <li>Wireshark</li>
+        <li>Metasploit</li>
+        <li>Hydra</li>
+        <li>Gobuster</li>
+        <li>Exploit DB</li>
+        <li>Netmiko</li>
+        <li>Ettercap</li>
+        <li>Shodan</li>
+        <li>OpenVAS</li>
+        <li>Burp Suite</li>
+    </ul>
+
+  <h3>Administration r&eacute;seau</h3>
+    <ul>
+        <li>Cisco</li>
+        <li>Kali Linux</li>
+    </ul>
+
+    <h3>Syst&egrave;mes d'exploitation</h3>
+    <ul>
+        <li>Ubuntu</li>
+        <li>Kali Linux</li>
+        <li>Arch Linux</li>
+    </ul>
+
+  <h3>Base de donn&eacute;es</h3>
+    <ul>
+        <li>MySQL</li>
+        <li>PostgreSQL</li>
+    </ul>
+
+   <h3>Outils et technologies</h3>
+    <ul>
+        <li>AWS</li>
+        <li>Azure</li>
+        <li>Git</li>
+        <li>VMware</li>
+        <li>VirtualBox</li>
+    </ul>
+
+  <h3>Environnements de d&eacute;veloppement</h3>
+    <ul>
+        <li>PyCharm</li>
+        <li>Visual Studio Code</li>
+    </ul>
  <h2>🌐 Opportunit&eacute;s Recherch&eacute;es</h2>
     <p>Je suis ouvert &agrave; :</p>
     <ul>
