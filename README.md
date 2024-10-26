@@ -28,33 +28,46 @@
         <li>Formation en réseaux et en cybers&eacute;curit&eacute;</li>
     </ul>
     <h2>🛠️ Comp&eacute;tences</h2>
-   <h3>Outils de s&eacute;curit&eacute;</h3>
-    <ul>
-        <li>Nmap</li>
-        <li>Wireshark</li>
-        <li>Hydra</li>
-    </ul>
+    <div class="chart-container">
+        <canvas id="skillsChart"></canvas>
+    </div>
 
-  <h3>Administration r&eacute;seau</h3>
-    <ul>
-        <li>Cisco</li>
-        <li>Kali Linux</li>
-    </ul>
-
-  <h3>Syst&egrave;mes d'exploitation</h3>
-    <ul>
-        <li>Ubuntu</li>
-        <li>Kali Linux</li>
-        <li>Windows</li>
-    </ul>
-
-   <h3>Outils et technologies</h3>
-    <ul>
-        <li>Azure</li>
-        <li>Git</li>
-        <li>VMware</li>
-        <li>VirtualBox</li>
-    </ul>
+  <script>
+        const ctx = document.getElementById('skillsChart').getContext('2d');
+        const skillsChart = new Chart(ctx, {
+            type: 'radar',
+            data: {
+                labels: [
+                    'Langages de programmation',
+                    'Outils de s&eacute;curit&eacute;',
+                    'Administration r&eacute;seau',
+                    'Syst&egrave;mes d'exploitation',
+                    'Base de donn&eacute;es',
+                    'Outils et technologies',
+                    'Environnements de d&eacute;veloppement'
+                ],
+                datasets: [{
+                    label: 'Niveau de Comp&eacute;tence',
+                    data: [80, 90, 75, 85, 70, 80, 75],
+                    backgroundColor: 'rgba(0, 123, 255, 0.2)',
+                    borderColor: 'rgba(0, 123, 255, 1)',
+                    borderWidth: 2
+                }]
+            },
+            options: {
+                responsive: true,
+                scales: {
+                    r: {
+                        angleLines: {
+                            display: true
+                        },
+                        suggestedMin: 0,
+                        suggestedMax: 100
+                    }
+                }
+            }
+        });
+   </script>
  <h2>🌐 Opportunit&eacute;s Recherch&eacute;es</h2>
     <p>Je suis ouvert &agrave; :</p>
     <ul>
