@@ -43,5 +43,4 @@
         <li><strong>Email</strong> : <a href="mailto:2025-SIO.VENTRE-A@algoudlaffemas.fr">2025-SIO.VENTRE-A@algoudlaffemas.fr</a></li>
     </ul>
 
- <p>N'h&eacute;sitez pas &agrave; me contacter pour discuter de toute opportunit&eacute; de collaboration, ou simplement pour &eacute;changer autour de la cybers&eacute;curit&eacute; et des r&eacute;seaux!</p>
 
