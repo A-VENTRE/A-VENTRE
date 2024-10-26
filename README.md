@@ -1,6 +1,3 @@
-<head>
-    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
-</head>
   <h1>Adrien VENTRE - &Eacute;tudiant en BTS SIO (Option SISR)</h1>
     <p>Bienvenue sur mon profil ! Je m'appelle Adrien VENTRE et je suis actuellement &eacute;tudiant en BTS SIO (Services Informatiques aux Organisations), sp&eacute;cialis&eacute; dans l'option SISR (Solutions d'Infrastructure, Syst&egrave;mes et R&eacute;seaux).</p>
 
@@ -34,43 +31,41 @@
     <div class="chart-container">
         <canvas id="skillsChart"></canvas>
     </div>
+<h2>⚙️ Compétences</h2>
+    <hr>
 
-  <script>
-        const ctx = document.getElementById('skillsChart').getContext('2d');
-        const skillsChart = new Chart(ctx, {
-            type: 'radar',
-            data: {
-                labels: [
-                    'Langages de programmation',
-                    'Outils de s&eacute;curit&eacute;',
-                    'Administration r&eacute;seau',
-                    'Syst&egrave;mes d'exploitation',
-                    'Base de donn&eacute;es',
-                    'Outils et technologies',
-                    'Environnements de d&eacute;veloppement'
-                ],
-                datasets: [{
-                    label: 'Niveau de Comp&eacute;tence',
-                    data: [80, 90, 75, 85, 70, 80, 75],
-                    backgroundColor: 'rgba(0, 123, 255, 0.2)',
-                    borderColor: 'rgba(0, 123, 255, 1)',
-                    borderWidth: 2
-                }]
-            },
-            options: {
-                responsive: true,
-                scales: {
-                    r: {
-                        angleLines: {
-                            display: true
-                        },
-                        suggestedMin: 0,
-                        suggestedMax: 100
-                    }
-                }
-            }
-        });
-   </script>
+ <h3>🔒 Outils de sécurité</h3>
+    <ul>
+        <li>🛠️ <strong>Nmap</strong></li>
+        <li>🛠️ <strong>Wireshark</strong></li>
+        <li>🛠️ <strong>Hydra</strong></li>
+    </ul>
+    <hr>
+
+ <h3>🌐 Administration réseau</h3>
+    <ul>
+        <li>📡 <strong>Cisco</strong></li>
+        <li>🐧 <strong>Kali Linux</strong></li>
+    </ul>
+    <hr>
+
+<h3>💻 Systèmes d'exploitation</h3>
+    <ul>
+        <li>🐧 <strong>Ubuntu</strong></li>
+        <li>🐧 <strong>Kali Linux</strong></li>
+        <li>🖥️ <strong>Windows</strong></li>
+    </ul>
+    <hr>
+
+ <h3>🛠️ Outils et technologies</h3>
+    <ul>
+        <li>☁️ <strong>Azure</strong></li>
+        <li>💻 <strong>Git</strong></li>
+        <li>🖥️ <strong>VMware</strong></li>
+        <li>📦 <strong>VirtualBox</strong></li>
+    </ul>
+    <hr>
+    
  <h2>🌐 Opportunit&eacute;s Recherch&eacute;es</h2>
     <p>Je suis ouvert &agrave; :</p>
     <ul>
