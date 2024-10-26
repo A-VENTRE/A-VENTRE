@@ -28,7 +28,6 @@
         <li>Formation en réseaux et en cybers&eacute;curit&eacute;</li>
     </ul>
    <h2>⚙️ Compétences</h2>
-    <hr>
  <h3>🔒 Outils de sécurité</h3>
         <li>🛠️ <strong>Nmap</strong></li>
         <li>🛠️ <strong>Wireshark</strong></li>
