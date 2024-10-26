@@ -1,7 +1,7 @@
-    <h1>Adrien VENTRE - &Eacute;tudiant en BTS SIO (Option SISR)</h1>
+  <h1>Adrien VENTRE - &Eacute;tudiant en BTS SIO (Option SISR)</h1>
     <p>Bienvenue sur mon profil! Je m'appelle Adrien VENTRE et je suis actuellement &eacute;tudiant en BTS SIO (Services Informatiques aux Organisations), sp&eacute;cialis&eacute; dans l'option SISR (Solutions d'Infrastructure, Syst&egrave;mes et R&eacute;seaux). Passionn&eacute; par le domaine des r&eacute;seaux et de la cybers&eacute;curit&eacute;, je m'int&eacute;resse particuli&egrave;rement &agrave; la protection des infrastructures et au d&eacute;veloppement de solutions s&ucirc;res et efficaces.</p>
 
-    <h2>✊ Mes Certifications</h2>
+  <h2>✊ Mes Certifications</h2>
     <ul>
         <li>
             <strong>CCNA 1 (Cisco Certified Network Associate)</strong> :
@@ -20,7 +20,7 @@
         </li>
     </ul>
 
-    <h2>🚀 Mes Int&eacute;r&ecirc;ts</h2>
+  <h2>🚀 Mes Int&eacute;r&ecirc;ts</h2>
     <ul>
         <li>S&eacute;curit&eacute; des r&eacute;seaux</li>
         <li>&Eacute;valuation des vuln&eacute;rabilit&eacute;s</li>
@@ -29,7 +29,7 @@
         <li>Formation en cybers&eacute;curit&eacute;</li>
     </ul>
 
-    <h2>🌐 Opportunit&eacute;s Recherch&eacute;es</h2>
+ <h2>🌐 Opportunit&eacute;s Recherch&eacute;es</h2>
     <p>Je suis ouvert &agrave; :</p>
     <ul>
         <li>Toute collaboration</li>
@@ -38,11 +38,11 @@
         <li>Participation en tant qu'examinateur ou membre de comit&eacute; de programme pour des revues ou conf&eacute;rences en cybers&eacute;curit&eacute;</li>
     </ul>
 
-    <h2>📨 Me Contacter</h2>
+<h2>📨 Me Contacter</h2>
     <ul>
         <li><strong>LinkedIn</strong> : <a href="https://www.linkedin.com/in/lucasburdier/">Adrien VENTRE</a></li>
         <li><strong>Email</strong> : <a href="mailto:2025-SIO.VENTRE-A@algoudlaffemas.fr">2025-SIO.VENTRE-A@algoudlaffemas.fr</a></li>
     </ul>
 
-    <p>N'h&eacute;sitez pas &agrave; me contacter pour discuter de toute opportunit&eacute; de collaboration, ou simplement pour &eacute;changer autour de la cybers&eacute;curit&eacute; et des r&eacute;seaux!</p>
+ <p>N'h&eacute;sitez pas &agrave; me contacter pour discuter de toute opportunit&eacute; de collaboration, ou simplement pour &eacute;changer autour de la cybers&eacute;curit&eacute; et des r&eacute;seaux!</p>
 
