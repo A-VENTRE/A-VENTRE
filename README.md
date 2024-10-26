@@ -1,6 +1,6 @@
-<h2>Bonjour, je m'appelle Adrien VENTRE
+<h>1Bonjour, je m'appelle Adrien VENTRE👋
 <br>
-</h2>
+</h1>
 <h3>
 Étudiant en BTS SIO (Services Informatiques aux Organisations) option SISR (Solutions d'Infrastructure, Systèmes et Réseaux)</h3>
 
