@@ -1,11 +1,3 @@
-
-<html lang="fr">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Adrien VENTRE - Portfolio</title>
-</head>
-<body>
     <h1>Adrien VENTRE - &Eacute;tudiant en BTS SIO (Option SISR)</h1>
     <p>Bienvenue sur mon profil! Je m'appelle Adrien VENTRE et je suis actuellement &eacute;tudiant en BTS SIO (Services Informatiques aux Organisations), sp&eacute;cialis&eacute; dans l'option SISR (Solutions d'Infrastructure, Syst&egrave;mes et R&eacute;seaux). Passionn&eacute; par le domaine des r&eacute;seaux et de la cybers&eacute;curit&eacute;, je m'int&eacute;resse particuli&egrave;rement &agrave; la protection des infrastructures et au d&eacute;veloppement de solutions s&ucirc;res et efficaces.</p>
 
@@ -53,5 +45,4 @@
     </ul>
 
     <p>N'h&eacute;sitez pas &agrave; me contacter pour discuter de toute opportunit&eacute; de collaboration, ou simplement pour &eacute;changer autour de la cybers&eacute;curit&eacute; et des r&eacute;seaux!</p>
-</body>
-</html>
+
