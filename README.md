@@ -39,7 +39,7 @@
 
 <h2>📨 Me Contacter</h2>
     <ul>
-        <li><strong>LinkedIn</strong> : <a href="https://www.linkedin.com/in/lucasburdier/">Adrien VENTRE</a></li>
+        <li><strong>LinkedIn</strong> : <a href="[https://www.linkedin.com/in/lucasburdier/](https://www.linkedin.com/in/adrien-v-362a72258/)">Adrien VENTRE</a></li>
         <li><strong>Email</strong> : <a href="mailto:2025-SIO.VENTRE-A@algoudlaffemas.fr">2025-SIO.VENTRE-A@algoudlaffemas.fr</a></li>
     </ul>
 
