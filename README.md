@@ -27,45 +27,24 @@
         <li>Hacking &eacute;thique</li>
         <li>Formation en réseaux et en cybers&eacute;curit&eacute;</li>
     </ul>
-    <h2>🛠️ Comp&eacute;tences</h2>
-    <div class="chart-container">
-        <canvas id="skillsChart"></canvas>
-    </div>
-<h2>⚙️ Compétences</h2>
+   <h2>⚙️ Compétences</h2>
     <hr>
-
  <h3>🔒 Outils de sécurité</h3>
-    <ul>
         <li>🛠️ <strong>Nmap</strong></li>
         <li>🛠️ <strong>Wireshark</strong></li>
         <li>🛠️ <strong>Hydra</strong></li>
-    </ul>
-    <hr>
-
  <h3>🌐 Administration réseau</h3>
-    <ul>
         <li>📡 <strong>Cisco</strong></li>
         <li>🐧 <strong>Kali Linux</strong></li>
-    </ul>
-    <hr>
-
 <h3>💻 Systèmes d'exploitation</h3>
-    <ul>
         <li>🐧 <strong>Ubuntu</strong></li>
         <li>🐧 <strong>Kali Linux</strong></li>
         <li>🖥️ <strong>Windows</strong></li>
-    </ul>
-    <hr>
-
  <h3>🛠️ Outils et technologies</h3>
-    <ul>
         <li>☁️ <strong>Azure</strong></li>
         <li>💻 <strong>Git</strong></li>
         <li>🖥️ <strong>VMware</strong></li>
-        <li>📦 <strong>VirtualBox</strong></li>
-    </ul>
-    <hr>
-    
+        <li>📦 <strong>VirtualBox</strong></li> 
  <h2>🌐 Opportunit&eacute;s Recherch&eacute;es</h2>
     <p>Je suis ouvert &agrave; :</p>
     <ul>
