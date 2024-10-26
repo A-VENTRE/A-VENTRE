@@ -23,10 +23,10 @@
   <h2>🚀 Mes Int&eacute;r&ecirc;ts</h2>
     <ul>
         <li>S&eacute;curit&eacute; des r&eacute;seaux</li>
-        <li>&Eacute;valuation des vuln&eacute;rabilit&eacute;s</li>
+        <li>Création de réseau informatique</li>
         <li>Tests de p&eacute;n&eacute;tration</li>
         <li>Hacking &eacute;thique</li>
-        <li>Formation en cybers&eacute;curit&eacute;</li>
+        <li>Formation en réseaux et en cybers&eacute;curit&eacute;</li>
     </ul>
 
  <h2>🌐 Opportunit&eacute;s Recherch&eacute;es</h2>
