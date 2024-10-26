@@ -14,7 +14,7 @@
             <a href="https://www.credly.com/org/cisco/badge/devnet-associate">Certificat DevNet Associate</a>
         </li>
         <li>
-            <strong>Cybersecurity Essentials (ANSSI)</strong> :
+            <strong>Cybersecurity Essentials (Cisco)</strong> :
             <p>Le certificat Cybersecurity Essentials, d&eacute;livr&eacute; par l'ANSSI en collaboration avec des experts, vise &agrave; renforcer la cybers&eacute;curit&eacute; des organisations. Il atteste des comp&eacute;tences de base en mati&egrave;re de s&eacute;curit&eacute; num&eacute;rique et de bonnes pratiques pour se prot&eacute;ger contre les cybermenaces courantes.</p>
             <a href="https://www.credly.com/badges/c5fddce3-8edf-4069-8c8d-cfe7c7a59221">Certificat Cybersecurity Essentials</a>
         </li>
