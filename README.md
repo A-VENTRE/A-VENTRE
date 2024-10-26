@@ -24,7 +24,6 @@
     <ul>
         <li>S&eacute;curit&eacute; des r&eacute;seaux</li>
         <li>Création de réseau informatique</li>
-        <li>Tests de p&eacute;n&eacute;tration</li>
         <li>Hacking &eacute;thique</li>
         <li>Formation en réseaux et en cybers&eacute;curit&eacute;</li>
     </ul>
